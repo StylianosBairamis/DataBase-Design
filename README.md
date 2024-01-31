@@ -1,6 +1,6 @@
 # Database Design Project
 
-This repository contains the design approach for a database system based on specific requirements. The report.pdf includes the Entity-Relationship (ER) diagram and the Relational diagram of the database. The SQL code is automatically generated using DBDesigner Fork.
+This repository contains the design approach for a database system based on specific requirements. The report.pdf contains explanations for my choices. 
 
 ## Contents:
 
