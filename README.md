@@ -10,7 +10,7 @@ This repository contains the design approach for a database system based on spec
 
 ## ER Diagram
 
-![ER Diagram](er_diagram.png)
+![ER Diagram](er-diagram.png)
 
 The ER diagram provides a visual representation of the entities and their relationships within the database system.
 
