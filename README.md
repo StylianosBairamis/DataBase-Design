@@ -4,8 +4,8 @@ This repository contains the design approach for a database system based on spec
 
 ## Contents:
 
-1. [ER Diagram]
-2. [Relational Diagram]
+1. [ER Diagram](er-diagram.png)
+2. [Relational Diagram](relational_diagram.png)
 3. [SQL Code]
 
 ## ER Diagram
