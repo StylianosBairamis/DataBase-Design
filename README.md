@@ -22,6 +22,8 @@ The Relational diagram illustrates the structure of the tables and their relatio
 
 ## SQL Code
 
+```sql
+
 -- SQL code automatically generated using DBDesigner Fork
 
 -- Example SQL code:
