@@ -26,7 +26,7 @@ The Relational diagram illustrates the structure of the tables and their relatio
 
 -- SQL code automatically generated using DBDesigner Fork
 
--- Example SQL code:
+
 
 CREATE TABLE ΠΕΛΑΤΗΣ (
   ID INTEGER  NOT NULL  ,
